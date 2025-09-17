@@ -1,1 +1,1 @@
-This branch is for development purpose.
+This folder is to store Notebooks and Project Codes.
